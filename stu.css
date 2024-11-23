@@ -1,0 +1,10 @@
+.pros{
+    width:30%;
+    border: 1px solid black;
+    padding-left: 100px;
+    margin:0px auto;
+}
+
+.default{
+    display: flex;
+}
